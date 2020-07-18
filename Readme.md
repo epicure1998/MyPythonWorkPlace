@@ -21,7 +21,7 @@ Star from SpiderForJD.py <br>
 - keyWords: Input the merch's keywords such as 'iphone', 'television','HUAWEI' etc.
 - jsonFileName: The name of the data storing json file.
 #### Demonstration
- - The screenshot while collecting the data ![SpiderPic](TheWorm/DemoPics/AutoSpider.png)
+ - The screenshot while collecting the data ![SpiderPic](TheWorm/DemoPics/AutoSpi.png)
  - The screenshot of the collected json data ![JsonPic](TheWorm/DemoPics/JsonFileDemo.png)
  - The screenshot of the data after writing into excel file ![ExcelPic](TheWorm/DemoPics/ExcelFileDemo.png)
 
