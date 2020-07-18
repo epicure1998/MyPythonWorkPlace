@@ -15,6 +15,14 @@ The procedures about how to start the application will be presented step by step
         - xlrd
         - xlutils
 ### Run the app
-Star from SpiderForJD.py 
+Star from SpiderForJD.py <br>
+`def startEntry(pageRange, keyWords, jsonFileName)` input three parameter according to your own requirements:
+- pageRange: The number of the pages that you want to collect, for instance, if you want to collect the information from page 1 to page 2, you should input the parameter as 2.
+- keyWords: Input the merch's keywords such as 'iphone', 'television','HUAWEI' etc.
+- jsonFileName: The name of the data storing json file.
+#### Demonstration
+ - The screenshot while collecting the data ![SpiderPic](TheWorm/DemoPics/AutoSpider.png)
+ - The screenshot of the collected json data ![JsonPic](TheWorm/DemoPics/JsonFileDemo.png)
+ - The screenshot of the data after writing into excel file ![ExcelPic](TheWorm/DemoPics/ExcelFileDemo.png)
 
 
