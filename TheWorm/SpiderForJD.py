@@ -112,4 +112,4 @@ def transferToExcel(address):
     print("¿ªÊ¼Ð´ÈëExcel...")
 
 
-startEntry(1, 'oppo', 'jsonFiles/oppo.json')
+startEntry(3, 'oppo', 'jsonFiles/oppo.json')
